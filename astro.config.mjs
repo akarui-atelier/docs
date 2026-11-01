@@ -9,5 +9,4 @@ export default defineConfig({
   integrations: [mdx(), preact(), react(), sitemap()],
   base: `/docs`,
   site: `https://akarui-atelier.github.io`
-  trailingSlash: 'always',
 })
